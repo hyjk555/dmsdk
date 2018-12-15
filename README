@@ -4,6 +4,12 @@ dmsdk 使用简介
 dmsdk 基于 openwrt，使用前需要先安装openwrt所需的相关工具，可访问
 https://wiki.openwrt.org/doc/howto/buildroot.exigence
 
+
+
+测试环境:14.04.1-Ubuntu 64bit
+依赖库:
+sudo apt-get install build-essential subversion libncurses5-dev zlib1g-dev gawk gcc-multilib flex git-core gettext libssl-dev unzip libxml-parser-perl
+
 1.下载sdk
 
 分为两种版本，sd boot 和 nor flash boot
